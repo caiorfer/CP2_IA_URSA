@@ -1,4 +1,4 @@
-Feito com dados ficticios
+Está sem dados no momento mas a logica está ai
 
 # Análise de Crédito Automatizada
 
